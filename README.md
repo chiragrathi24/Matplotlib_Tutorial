@@ -7,3 +7,4 @@ The different Data Sets Used for the visualisation are as follows:
 Types of charts:
 1.  Bar Graph
 2.  Histogram
+3.  Pie Chart
