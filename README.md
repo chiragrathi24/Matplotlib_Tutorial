@@ -8,3 +8,4 @@ Types of charts:
 1.  Bar Graph
 2.  Histogram
 3.  Pie Chart
+4.  Line Chart
