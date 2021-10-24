@@ -9,3 +9,4 @@ Types of charts:
 2.  Histogram
 3.  Pie Chart
 4.  Line Chart
+5.  3-D Pie Chart
