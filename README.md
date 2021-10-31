@@ -6,7 +6,7 @@ Jupyter notebook is used to write all the code along with description.
 1. [fifa_data.csv](https://github.com/chiragrathi24/Matplotlib_Tutorial/blob/main/fifa_data.csv)
 2. [Gas_prices.csv](https://github.com/chiragrathi24/Matplotlib_Tutorial/blob/main/gas_prices.csv)
 
-## Types of charts:
+## Types of charts used:
 1.  Bar Graph
 2.  Histogram
 3.  Pie Chart
